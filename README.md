@@ -21,11 +21,11 @@ This helps us achieve the following:
 
 ## Types of roles
 
-We currently have two main type of roles, user facing and network facing.
+We currently have two main types of roles, user facing and network facing.
 
 User facing roles are done by contributors that interact directly with the Monocle user or prospective users.
 
-Network facing roles are done by contributors that interact directly with the Monocle Moncle network to provide a smooth experience to users on our peer-to-peer network, or our related online infrastructure.
+Network facing roles are done by contributors that interact directly with the Monocle network to provide a smooth experience to users on our peer-to-peer network, or our related online infrastructure.
 
 Both types of roles are vital to making sure users have the best possible experience. 
 
@@ -46,13 +46,13 @@ Network facing roles include the following:
 - [Price node operators](https://github.com/monocle-exchange/roles/issues/3)
 - [Markets operator](https://github.com/monocle-exchange/roles/issues/6)
 
-## How this Role repository works
+## How this role repository works
 
-This repository is only for the following:
+The role repository is only for the following:
 
 - Documenting our roles in way that makes expectations clear
 - Provide contributors who are performing the roles to provide a monthly report update visible to everyone
-- Porvide interested users with an interest in how exchanges operate to see inside the functioning it's operations
+- Provide interested users with an interest in how exchanges operate to see inside the functioning it's operations
 - Provide potential contributors a way to see what is required prior to making the commitment to get involved 
 
 Only contributors can make new issues on this repository. 
