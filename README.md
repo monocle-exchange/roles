@@ -5,9 +5,9 @@ Roles are the way contributors take responsibility for the operations of Monocle
 
 ## Context
 
-There are many roles required to help build Haveno Exchange and operate an effective Haveno network.
+There are many roles required to help build Monocle Exchange and operate an effective Haveno network.
 
-Initially this repository will just be for documenting the roles required. As we progress we will also use this repository for contributors to provide monthly update reports. This helps all contributors have a good handle on what is going on.
+Initially this repository will just be for documenting the roles required. As we progress, we will also use this repository for contributors to provide monthly update reports. This helps all contributors have a good handle on what is going on.
 
 ## Goals
 
@@ -51,8 +51,8 @@ Network facing roles include the following:
 This repository is only for the following:
 
 - Documenting our roles in way that makes expectations clear
-- Proivde contributors who are performing the roles to provide a monthly report update visible to everyone
-- Porvide interested users with an interest in how Echanges operate to see inside the functioning of an exchange
+- Provide contributors who are performing the roles to provide a monthly report update visible to everyone
+- Porvide interested users with an interest in how exchanges operate to see inside the functioning it's operations
 - Provide potential contributors a way to see what is required prior to making the commitment to get involved 
 
 Only contributors can make new issues on this repository. 
