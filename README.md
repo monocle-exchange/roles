@@ -21,13 +21,17 @@ This helps us achieve the following:
 
 ## Types of roles
 
-We currently have two main types of roles, user facing and network facing.
+We currently have four main types of roles, user facing and network facing.
 
 User facing roles are done by contributors that interact directly with the Monocle user or prospective users.
 
 Network facing roles are done by contributors that interact directly with the Monocle network to provide a smooth experience to users on our peer-to-peer network, or our related online infrastructure.
 
-Both types of roles are vital to making sure users have the best possible experience. 
+Application facing roles are done by developers or maintainers that interact directly with the Monocle network client application to provide a smooth and consistent experience to users of our software.
+
+Contributor facing roles ensure our contributors have positive experiences. They look after the human operation aspects of a healthy open source community.
+
+All types of roles are vital to making sure users have the best possible experience. 
 
 ### User facing roles
 
@@ -54,7 +58,7 @@ Application facing roles include the following:
 
 ### Contributor facing roles
 
-Contributo facing roles include the following:
+Contributor facing roles include the following:
 
 - [Open source community managers](https://github.com/monocle-exchange/roles/issues/8)
 
