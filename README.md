@@ -46,6 +46,18 @@ Network facing roles include the following:
 - [Price node operators](https://github.com/monocle-exchange/roles/issues/3)
 - [Markets operator](https://github.com/monocle-exchange/roles/issues/6)
 
+### Application facing roles
+
+Application facing roles include the following:
+
+- [Open source application maintainers](https://github.com/monocle-exchange/roles/issues/9)
+
+### Contributor facing roles
+
+Contributo facing roles include the following:
+
+- [Open source community managers](https://github.com/monocle-exchange/roles/issues/8)
+
 ## How this role repository works
 
 The role repository is only for the following:
