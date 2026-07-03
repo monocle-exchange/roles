@@ -1,76 +1,59 @@
 # Roles
-A place for contributors, to understand role requirements and to post reports
 
-Roles are the way contributors take responsibility for the operations of Monocle Exchange.
+A place for contributors to understand role requirements and to post performance reports.
+
+Roles are the mechanism by which contributors take responsibility for the ongoing operations of Monocle Exchange.
 
 ## Context
 
-There are many roles required to help build Monocle Exchange and operate an effective Haveno network.
+There are many diverse roles required to help build Monocle Exchange and operate an effective Haveno network.
 
-Initially this repository will just be for documenting the roles required. As we progress, we will also use this repository for contributors to provide monthly update reports. This helps all contributors have a good handle on what is going on.
+Initially, this repository will serve to document the roles required by the ecosystem. As we progress, we will also use this repository for contributors to submit monthly update reports. This ensures all active team members have a clear handle on operations across the board.
 
 ## Goals
 
-The goal of this repository is to help define the roles required and help ensure everyone understand what responsibilities come with each role.
+The objective of this repository is to define necessary project roles and ensure everyone understands the exact responsibilities that accompany each position.
 
 This helps us achieve the following:
+* **Maximize contributor autonomy** within their designated roles.
+* **Decentralize the management** and oversight of project responsibilities.
+* **Effectively review** and audit the work being done.
 
-- Maximise role owner autonomy of the contributor
-- Decentralize the management of roles
-- Effectively review the work being done
+---
 
-## Types of roles
+## Types of Roles
 
-We currently have four main types of roles, user facing and network facing.
+We categorize project responsibilities into four distinct types of roles. Every category is vital to delivering the best possible user experience.
 
-User facing roles are done by contributors that interact directly with the Monocle user or prospective users.
+### 🗣️ User-Facing Roles
+These contributors interact directly with Monocle users or prospective community members.
+* [Community Managers](https://github.com/monocle-exchange/roles/issues/7)
+* [Support Team Members](https://github.com/monocle-exchange/roles/issues/5)
+* [Arbitrators](https://github.com/monocle-exchange/roles/issues/4)
 
-Network facing roles are done by contributors that interact directly with the Monocle network to provide a smooth experience to users on our peer-to-peer network, or our related online infrastructure.
+### 🖥️ Network-Facing Roles
+These contributors interact directly with the core infrastructure to provide a smooth experience on our peer-to-peer network and related online deployments.
+* [Monero Node Operators](https://github.com/monocle-exchange/roles/issues/1)
+* [Seed Node Operators](https://github.com/monocle-exchange/roles/issues/2)
+* [Price Node Operators](https://github.com/monocle-exchange/roles/issues/3)
+* [Markets Operator](https://github.com/monocle-exchange/roles/issues/6)
 
-Application facing roles are done by developers or maintainers that interact directly with the Monocle network client application to provide a smooth and consistent experience to users of our software.
+### 💻 Application-Facing Roles
+These developers or maintainers work directly on the network client application codebase to deliver a stable and consistent software experience.
+* [Open-Source Application Maintainers](https://github.com/monocle-exchange/roles/issues/9)
 
-Contributor facing roles ensure our contributors have positive experiences. They look after the human operation aspects of a healthy open source community.
+### 👥 Contributor-Facing Roles
+These individuals manage the human operations aspect of a healthy open-source ecosystem, ensuring all contributors have a positive, coordinated experience.
+* [Open-Source Community Managers](https://github.com/monocle-exchange/roles/issues/8)
 
-All types of roles are vital to making sure users have the best possible experience. 
+---
 
-### User facing roles
+## How this Roles Repository Works
 
-User facing roles include the following:
+This repository is reserved strictly for the following operational workflows:
+* **Documenting Roles:** Outlining core expectations, prerequisites, and operational responsibilities transparently.
+* **Monthly Status Updates:** Serving as a public ledger for contributors to post routine reports detailing their monthly output.
+* **Operational Auditing:** Allowing curious users or stakeholders to look inside the exchange and see how it operates under the hood.
+* **Onboarding Preparation:** Giving prospective contributors an upfront view of what is required before they commit to joining.
 
-- [Community managers](https://github.com/monocle-exchange/roles/issues/7)
-- [Support team members](https://github.com/monocle-exchange/roles/issues/5)
-- [Arbitrators](https://github.com/monocle-exchange/roles/issues/4)
-
-### Network facing roles
-
-Network facing roles include the following:
-
-- [Monero node operators](https://github.com/monocle-exchange/roles/issues/1)
-- [Seed node operators](https://github.com/monocle-exchange/roles/issues/2)
-- [Price node operators](https://github.com/monocle-exchange/roles/issues/3)
-- [Markets operator](https://github.com/monocle-exchange/roles/issues/6)
-
-### Application facing roles
-
-Application facing roles include the following:
-
-- [Open source application maintainers](https://github.com/monocle-exchange/roles/issues/9)
-
-### Contributor facing roles
-
-Contributor facing roles include the following:
-
-- [Open source community managers](https://github.com/monocle-exchange/roles/issues/8)
-
-## How this role repository works
-
-The role repository is only for the following:
-
-- Documenting our roles in way that makes expectations clear
-- Provide contributors who are performing the roles to provide a monthly report update visible to everyone
-- Provide interested users with an interest in how exchanges operate to see inside the functioning it's operations
-- Provide potential contributors a way to see what is required prior to making the commitment to get involved 
-
-Only contributors can make new issues on this repository. 
-
-New roles will be added as an when they become available.
+> **Access Note:** Only active project contributors are authorized to open new issues in this repository. New roles will be added and published as they become available.
